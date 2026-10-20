@@ -1,0 +1,6 @@
+{
+  "name": "Q-TESSERACT // 4D Quantum Computer Simulator & Entanglement Benchmark",
+  "description": "Research-grade 4-dimensional quantum computer simulation software for testing complex entanglement protocols, high-fidelity gate operations, and long-distance decoherence mitigation with GPU acceleration, LaTeX reporting, and cross-platform quantum SDK adapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
